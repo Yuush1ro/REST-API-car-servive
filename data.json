@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "BMW",
+      "model": "X5",
+      "mileage": 60000,
+      "owners_count": 3
+    },
+    {
+      "id": 2,
+      "brand": "Lada",
+      "model": "kalina",
+      "mileage": 1000,
+      "owners_count": 7
+    },
+    {
+      "id": 3,
+      "brand": "Audi",
+      "model": "r8",
+      "mileage": 80000,
+      "owners_count": 2
+    }
+  ]
+}
